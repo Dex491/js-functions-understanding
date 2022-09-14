@@ -160,7 +160,7 @@ const result = myFunction(num3, num1)
 
 ### Q9
 
-What will be logged out on the console when this code rus? Why?
+What will be logged out on the console when this code runs? Why?
 
 ```javascript
 function myFunction(num1, num2) {
