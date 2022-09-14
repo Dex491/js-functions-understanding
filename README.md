@@ -78,7 +78,7 @@ function myFunction(num) {
 let num = 10
 num = myFunction(num)
 num = myFunction(num)
-``` 
+```
 
 ### Q4
 
