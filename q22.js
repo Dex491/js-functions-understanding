@@ -11,4 +11,5 @@ myFunction(100, 2)
 console.log(result);
 
 // Although the value is 102 within the function, because unlike the last question the value
-// is the main value rather than a sub-value it cannot be redefined in this way
+// is the main value rather than a sub-value it cannot be redefined in this way if let is
+// there like on line 369
