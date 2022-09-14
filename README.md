@@ -1,10 +1,13 @@
 # Understanding Functions
+
 This exercise is designed to improve your understanding of functions, function arguments and return statements.
 
 ## Learning Objectives
+
 * Explain how functions, function arguments and `return` statements work
 
 ## Instructions
+
 Go through each of the questions below, one by one, using the following process:
 
 1. *Write down* a description of what you believe the function(s) are doing and what you think the answer to the question is. Do not skip the writing down step.
@@ -26,6 +29,7 @@ At the end of all questions, in a new MD file describe in your own words:
 Share this final write up with your instructor.
 
 ## Learning Cycle
+
 This process is an example of applying a *learning cycle*. Remember this diagram from the beginning of the course?
 
 ![Learning Cycle](learning-cycle.png)
@@ -33,11 +37,13 @@ This process is an example of applying a *learning cycle*. Remember this diagram
 Be conscious of this process as you go through the exercise. If the code for a particular question does something you didn't expect, ask yourself why. Modify the code as necessary to help understand it's behavior, copy the code to a new file, add console.log messages to give you visibility. This process is the key to developing your own understanding of how specific concepts work. Keep this diagram in mind as you go through the exercise.
 
 ## Instructor Demo
+
 Your instructor will demonstrate this process for the first question.
 
 ## Questions
 
 ### Q1
+
 What is the value of `result` after calling this function? Why?
 
 ```javascript
@@ -49,6 +55,7 @@ const result = myFunction(5,5)
 ```
 
 ### Q2
+
 What is the value of `result` after calling this function? Why?
 
 ```javascript
@@ -60,6 +67,7 @@ const result = myFunction(5,5)
 ```
 
 ### Q3
+
 What is the value of `num` at the end of the program? Why?
 
 ```javascript
@@ -73,6 +81,7 @@ num = myFunction(num)
 ``` 
 
 ### Q4
+
 What is the value of `add` and `num` at the end of the program? Why?
 
 ```javascript
@@ -87,6 +96,7 @@ add = myFunction(add)
 ```
 
 ### Q5
+
 What value will be logged inside the function call? Why?
 
 ```javascript
@@ -102,6 +112,7 @@ myFunction(num)
 ```
 
 ### Q6
+
 What value will be logged inside the function call? Why?
 
 ```javascript
@@ -116,6 +127,7 @@ myFunction(num1, num)
 ```
 
 ### Q7
+
 What will the value of counter be at the end of this program? Why?
 
 ```javascript
@@ -131,6 +143,7 @@ const num = myFunction()
 ```
 
 ### Q8
+
 What will the value of `result` be at the end of this program? Why?
 
 ```javascript
@@ -146,6 +159,7 @@ const result = myFunction(num3, num1)
 ```
 
 ### Q9
+
 What will be logged out on the console when this code rus? Why?
 
 ```javascript
@@ -161,6 +175,7 @@ myFunction(num3, num1)
 ```
 
 ### Q10
+
 What will be logged out on the console when this code runs? Why?
 
 ```javascript
@@ -176,6 +191,7 @@ myFunction(num3, num1, 100)
 ```
 
 ### Q11
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -191,6 +207,7 @@ const result = myFunction(1, 1, 1)
 ```
 
 ### Q12
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -207,6 +224,7 @@ const result = myFunction(5)
 ```
 
 ### Q13
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -224,6 +242,7 @@ const result = myFunction(5)
 ```
 
 ### Q14
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -239,6 +258,7 @@ const result = myFunction(5)
 ```
 
 ### Q15
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -253,8 +273,8 @@ function myFunction(num1) {
 const result = myFunction(5)
 ```
 
-
 ### Q16
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -270,6 +290,7 @@ const result = myFunction(5)
 ```
 
 ### Q17
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -283,6 +304,7 @@ const result = myFunction(5)
 ```
 
 ### Q18
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -297,6 +319,7 @@ const result = myFunction(5)
 ```
 
 ### Q19
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -308,6 +331,7 @@ const result = myFunction(5, 10, 15)
 ```
 
 ### Q20
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -323,6 +347,7 @@ const result = myFunction(5, 10, num3, 15)
 ```
 
 ### Q21
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -336,6 +361,7 @@ myFunction(100, 2)
 ```
 
 ### Q22
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -349,6 +375,7 @@ myFunction(100, 2)
 ```
 
 ### Q23
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -361,6 +388,7 @@ myFunction(100, 2)
 ```
 
 ### Q24
+
 What will be the value of `result` when this code runs? Why?
 
 ```javascript
@@ -373,7 +401,9 @@ const result = myFunction(5, 2)
 ```
 
 ### Q25
+
 What will be the printed out by the console log statements when this code runs? Why?
+
 ```javascript
 function myFunction(a) {
   let b = 20
